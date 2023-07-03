@@ -1,0 +1,3 @@
+1. Big Query Sql file : https://console.cloud.google.com/bigquery?sq=464610368861:85affc3c896b430f8c47977096e6a065
+
+2. Looker Studio Dashboard : https://lookerstudio.google.com/s/q6PR59sHx1g
